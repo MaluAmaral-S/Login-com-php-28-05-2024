@@ -1,4 +1,4 @@
-Sistema de Autenticação com PHP e AJAX
+** Sistema de Autenticação com PHP e AJAX **
 Este projeto é uma implementação de um sistema de login funcional que utiliza comunicação assíncrona para validar credenciais. O foco principal é demonstrar o fluxo de autenticação, desde a interface do usuário até a persistência de dados e proteção de rotas via sessões.
 
 Funcionalidades Principais
