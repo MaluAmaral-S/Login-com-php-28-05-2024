@@ -1,11 +1,3 @@
-Sim, este projeto é interessante para o seu perfil, especialmente para demonstrar o domínio de fundamentos essenciais do desenvolvimento web. Ele evidencia que você compreende a comunicação entre cliente e servidor de forma assíncrona (AJAX), a manipulação de banco de dados com padrões modernos do PHP (PDO) e o gerenciamento de sessões de usuário.
-
-Para torná-lo ainda mais atrativo para recrutadores, considere adicionar uma observação sobre segurança (como o uso de `password_hash` no futuro), pois atualmente o sistema compara senhas em texto puro.
-
-Abaixo, preparei um README profissional para este projeto:
-
----
-
 # Sistema de Autenticação com PHP e AJAX
 
 Este projeto é uma implementação de um sistema de login funcional que utiliza comunicação assíncrona para validar credenciais. O foco principal é demonstrar o fluxo de autenticação, desde a interface do usuário até a persistência de dados e proteção de rotas via sessões.
